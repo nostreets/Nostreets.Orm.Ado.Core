@@ -1,0 +1,17 @@
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Orm.Ado.Core.deps.json
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Orm.Ado.Core.runtimeconfig.json
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Orm.Ado.Core.dll
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Orm.Ado.Core.pdb
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Extensions.Core.dll
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\bin\Debug\net6.0\Nostreets.Extensions.Core.pdb
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.csproj.AssemblyReference.cache
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.AssemblyInfoInputs.cache
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.AssemblyInfo.cs
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.csproj.CoreCompileInputs.cache
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.csproj.CopyComplete
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.dll
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\refint\Nostreets.Orm.Ado.Core.dll
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.pdb
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\Nostreets.Orm.Ado.Core.genruntimeconfig.cache
+C:\Git\nostreets\Nostreets.Orm.Ado.Core\Nostreets.Orm.Ado.Core\obj\Debug\net6.0\ref\Nostreets.Orm.Ado.Core.dll
